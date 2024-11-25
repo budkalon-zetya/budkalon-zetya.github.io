@@ -1,0 +1,20 @@
+# dependencies installed by npm
+node_modules
+
+# build artefacts
+eleventy.config.js
+package-lock.json
+package.json
+css
+_src
+
+# secrets and errors
+.env
+.log
+.vs
+.obsidian
+.eleventyignore
+_dump
+
+# macOS related files
+.DS_Store
